@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://dachnye-budni.ru/sitemap.xml
+Sitemap: https://dachnye-budni.ru/sitemap.xml
